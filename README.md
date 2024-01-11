@@ -1,4 +1,4 @@
-# lp_profmat
+# Linha de Pesquisa no campo de atuação no PROFMAT/UFSJ
 ## Objetivo
 Apresentar minha linha de pesquisa na atuação do PROFMAT.
 ## Área de atuação
