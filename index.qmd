@@ -1,0 +1,154 @@
+---
+title: "R básico e linhas de pesquisa no PROFMAT"
+subtitle: "Ensino e Pesquisa"
+title-slide-attributes:
+    data-background-image: cap.png
+
+author: "{{< fa user-tie >}} [Ben Dêivide](http://bendeivide.github.io) | {{< fa school >}} [UFSJ](https://www.ufsj.edu.br/)"
+bibliography: biblio.bib
+link-citations: true
+csl: associacao-brasileira-de-normas-tecnicas-ipea.csl
+lang: "pt-br"
+format: 
+  revealjs:
+    navigation-mode: vertical # Slides horizontais e verticais
+    theme: dark
+    transition: slide
+    background-transition: fade
+#    transition-speed: fade
+    footer: "[Ben Dêivide](http://bendeivide.github.io) |  [UFSJ](https://www.ufsj.edu.br/)" # Rodapé
+    incremental: true # Transição de itens gradativos
+    controls: true # Inserindo as flechas de transicao
+    # Quadro negro
+    chalkboard: 
+      theme: whiteboard
+      #chalk-width: 5 # largura da caneta do quadro negro
+      boardmarker-width: 5 # largura da caneta do quadro branco
+    multiplex: true # Efeito para quando eu mudar o slide, todos observarao mudando em seus browsers tbm
+    logo: logo.png
+#   slide-tone: true # som na transicao dos slides
+    slide-number: true # Inserindo numero nos slides
+#    show-slide-number: print
+    menu:
+      side: left # lado do menu
+      width: wide
+#     numbers: true # inserir numero nos itens do menu
+    pointer: # Plugin para o ponteiro
+      - key: q
+      - color: red
+      - pointerSize: 16
+      - alwaysVisible: false
+revealjs-plugins:
+  - pointer
+editor: source
+---
+
+
+# Filosofia de publicação (Selo DC) {background-image="cap02.png"}
+
+<a href="https://bendeivide.github.io/dc/" target="_blank" style="text-align: center;">
+
+<img src="SeloDC-branco.png" width="400"/>
+
+</a>
+
+
+# R básico
+
+
+![](cover-back-front.png)
+
+## Curiosidades do R básico {background-image="cap02.png"}
+
+- Tempo: 1 ano
+- Escrito em $\LaTeX$ (PDF) - classe *memoir*
+- Escrito com o pacote [bookdown](https://bookdown.org/yihui/bookdown/) (Versão em HTML)
+  - Ultrapassou as 2500 linhas de comando
+- 124 exercícios propostos
+- $>$ 120 Códigos R numerados, sem contabilizar os não numerados
+- 339 páginas e 321 numeradas
+- Publicado em 28/08/2022
+
+
+## Coleção EAR {background-image="cap02.png"}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- R básico (Volume I) ✔
+- R intermediário (Volume II)
+- R avançado (Volume III)
+- Documentações em R (Volume IV)
+- Desenvolvimento de pacotes R (Volume V)
+
+:::
+
+::: {.column width="50%"}
+
+- Gráficos (Volume VI)
+- Banco de dados (Volume VII)
+- IGU (Volume VIII)
+- POO no R (Volume IX)
+- Funções do pacote `base` (Volume X)
+- ...
+
+
+:::
+
+::::
+
+## Estrutura do R básico {background-image="cap02.png"}
+
+- Objetivo: Sintaxe e semântica do R (Introdutório)
+- 11 capítulos
+  - Capítulo 1: Entendendo a coleção EAR
+  - Capítulo 2: História e instalação do R
+  - Capítulo 3: Como o R trabalha
+  - Capítulo 4: Objetos e estruturas de dados
+  - Capítulo 5: Importação e exportação de dados
+  - Capítulo 6: Funções no R
+
+
+## Estrutura do R básico {background-image="cap02.png"}
+
+- 11 capítulos
+  - Capítulo 7: Boas práticas de como escrever um código
+  - Capítulo 8: Pacotes
+  - Capítulo 9: Ambientes e caminho de busca
+  - Capítulo 10: Interfaces com outras linguagens
+  - Capítulo 11: Considerações e preparação para o Volume II
+
+
+# Ensino e Pesquisa no PROFMAT/UFSJ {background-image="cap02.png"}
+
+- Ensino: MA41 - Probabilidade e Estatísticav
+- Pesquisa:
+  - Ensino da Estatística e Matemática: 
+    - LEEM
+    - Coreografias didáticas
+    - Quadrinhos
+  - Téorico: Estatística, Probabilidade e programação
+
+# Parcerias no PROFMAT {background-image="cap02.png"}
+
+- Ensino
+- Pesquisa
+
+# Questões? {background-image="cap02.png"}
+
+[Dúvidas e Sugestões](https://bendeivide.github.io/){preview-link="true"}
+
+[Contato](https://bendeivide.github.io/#contact){preview-link="true"}
+
+
+# Obrigado {data-transition="zoom" background-image="cap02.png"}
+
+<a href="https://bendeivide.github.io//" target="_blank" style="text-align: center;">
+
+<img src="logo.png" width = "400">
+
+</a> <center> <a href="/courses/epaec"  target="_blank" >bendeivide.github.io</a> </center>
+
+
+# Referências {background-image="cap02.png"}
